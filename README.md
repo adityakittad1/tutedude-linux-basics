@@ -10,7 +10,7 @@ This repository contains the Linux Basics assignment documentation for the TuteD
 
 ## Contents
 
-- `Documentation/Linux_Basics_Documentation.docx` - Word documentation with commands, explanations, and screenshot placeholders.
+- `Documentation/Linux_Basics_AdityaKittad.docx` - Word documentation with commands, explanations, and screenshot evidence.
 - `screenshots/` - Terminal screenshots for Tasks 1-12.
 - `assignment-files/` - Linux files and folders created during the assignment.
 
